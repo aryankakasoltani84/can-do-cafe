@@ -260,3 +260,11 @@ margin: 0 auto 35px;
         font-size: 25px;
     }
 }
+.footer-item a {
+  color: #eee5da;
+  text-decoration: none;
+  font_size:13px;
+}
+.footer_item a:hover {
+  color:#d1aa68;
+}
